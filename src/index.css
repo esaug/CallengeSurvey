@@ -1,0 +1,44 @@
+* {
+  font-family: 'Coda', cursive;
+}
+
+.btn-connect {
+  background-color: black;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.rounded-gz {
+  border: 0ch;
+  border-radius: 1%;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-0 {
+  font-size: 18px;
+}
+
+.text-1 {
+  font-size: 25px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.mt-x1 {
+  margin-top: 5px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
